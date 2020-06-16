@@ -1,2 +1,1 @@
-Alex Odintsov
----------------
+Alex Odintsov's personal site
