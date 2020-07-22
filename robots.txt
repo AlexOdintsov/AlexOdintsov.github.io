@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /autodiscover/
+Disallow: /docs/
+Disallow: /test/
+Disallow: /files/
