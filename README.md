@@ -1,7 +1,7 @@
 # ALEX ODINTSOV's RESUME | [PDF format](https://odintsov.com/resume/Alex_Odintsov_Resume.pdf) | [MS Word format](https://odintsov.com/resume/Alex_Odintsov_Resume.doc)
 ## ENTERPRISE SOLUTIONS DELIVERY, INTEGRATIONS &amp; OPERATIONS • STRATEGIC AGILITY • BUSINESS RESILIENCE
 
-US CITIZEN | ATLANTA, GA 30068 | ALEX@ODINTSOV.COM | [LINKEDIN PROFILE](https://www.linkedin.com/in/alexodintsov)
+US CITIZEN | ATLANTA, GA 30068 | [ODINTSOV.COM](https://odintsov.com) | <ALEX@ODINTSOV.COM> | [LINKEDIN PROFILE](https://www.linkedin.com/in/alexodintsov)
 
 ## DIRECTOR OF SOFTWARE DEVELOPMENT AND OPERATIONS ( TECHNOLOGY / ENGINEERING/ DEVOPS )
 
