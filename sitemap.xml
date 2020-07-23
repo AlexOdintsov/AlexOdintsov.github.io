@@ -6,25 +6,21 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
         <loc>https://odintsov.com/</loc>
-        <xhtml:link href="https://odintsov.com/" hreflang="x-default" rel="alternate"/>
         <changefreq>daily</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
         <loc>https://odintsov.com/resume/Alex_Odintsov_Resume.pdf</loc>
-        <xhtml:link href="https://odintsov.com/resume/Alex_Odintsov_Resume.pdf" hreflang="x-default" rel="alternate"/>
         <changefreq>daily</changefreq>
         <priority>0.90</priority>
     </url>
     <url>
         <loc>https://odintsov.com/resume/Alex_Odintsov_Resume.doc</loc>
-        <xhtml:link href="https://odintsov.com/resume/Alex_Odintsov_Resume.doc" hreflang="x-default" rel="alternate"/>
         <changefreq>daily</changefreq>
         <priority>0.80</priority>
     </url>
     <url>
         <loc>https://odintsov.com/resume/Alex_Odintsov_Resume.txt</loc>
-        <xhtml:link href="https://odintsov.com/resume/Alex_Odintsov_Resume.txt" hreflang="x-default" rel="alternate"/>
         <changefreq>daily</changefreq>
         <priority>0.50</priority>
     </url>
