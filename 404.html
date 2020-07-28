@@ -1,103 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144926246-1"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
 
-      gtag('config', 'UA-144926246-1');
-    </script>    
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-144926246-1');
+    </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>404 Page</title>
-    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Baloo+Paaji" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
     <style type="text/css">
-        .custom-font {
-            font-family: 'Baloo Paaji', cursive;
-            font-size: 100px;
-            font-weight: bold;
+        * {
+            transition: all 0.6s;
         }
-
-        @media (min-width: 576px) {
-            .custom-font {
-                font-family: 'Baloo Paaji', cursive;
-                font-size: 100px;
-                font-weight: bold;
+        
+        html {
+            height: 100%;
+        }
+        
+        body {
+            font-family: 'Lato', sans-serif;
+            color: #888;
+            margin: 0;
+        }
+        
+        #main {
+            display: table;
+            width: 100%;
+            height: 100vh;
+            text-align: center;
+        }
+        
+        .fof {
+            display: table-cell;
+            vertical-align: middle;
+        }
+        
+        .fof h1 {
+            font-size: 50px;
+            display: inline-block;
+            padding-right: 12px;
+            animation: type .5s alternate infinite;
+        }
+        
+        @keyframes type {
+            from {
+                box-shadow: inset -3px 0px 0px #888;
+            }
+            to {
+                box-shadow: inset -3px 0px 0px transparent;
             }
         }
-
-        @media (min-width: 768px) {
-            .custom-font {
-                font-family: 'Baloo Paaji', cursive;
-                font-size: 150px;
-                font-weight: bold;
-            }
-        }
-
-        @media (min-width: 992px) {
-            .custom-font {
-                font-family: 'Baloo Paaji', cursive;
-                font-size: 200px;
-                font-weight: bold;
-            }
-        }
-
-        @media (min-width: 1200px) {
-            .custom-font {
-                font-family: 'Baloo Paaji', cursive;
-                font-size: 280px;
-                font-weight: bold;
-            }
-        }
-
-        .cd-shadow {
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
-            transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
-        }
-
-        .cd-shadow:hover {
-            box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-        }
-
-        .card-footer {
-            border: none;
-        }
-
-        .color {
-            background-color: #00BF9A;
+        
+        ul {
+            width: 300px;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: left;
         }
     </style>
-    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 </head>
 
 <body class="color">
-    <div class="container-fluid  ">
-        <div class="col-md-6 offset-md-3 text-center mt-5 pt-5">
-            <div class="bg-light card cd-shadow text-center">
-                <h1 class="display-1 custom-font align-items-center">404</h1>
-                <div class="container">
-                    <h3 class="md-0">Whatever you're looking for..it's not here...</h3>
-                </div>
-                <div class="card-footer bg-light">
-                    <ul class="nav justify-content-center">
-                        <li class="nav-item">
-                            <a class="nav-link disabled" href="https://www.linkedin.com/in/alexodintsov/">Alex Odintsov's LinkedIn profile</a>
-                        </li>
-                        <li class="nav-item ">
-                            <a class="nav-link disabled" href="https://www.odintsov.com/resume/Alex_Odintsov_Resume.pdf">Alex Odintsov's Resume (PDF format)</a>
-                        </li>
-                        <li class="nav-item ">
-                            <a class="nav-link disabled" href="https://www.odintsov.com/resume/Alex_Odintsov_Resume.doc">Alex Odintsov's Resume (MS Word format)</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+    <div id="main">
+        <div class="fof">
+            <h1>Error 404</h1>
+            <ul class="links">
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="https://www.linkedin.com/in/alexodintsov/">Alex Odintsov's LinkedIn profile</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link disabled" href="https://www.odintsov.com/resume/Alex_Odintsov_Resume.pdf">Alex Odintsov's Resume (PDF format)</a>
+                </li>
+                <li class="nav-item ">
+                    <a class="nav-link disabled" href="https://www.odintsov.com/resume/Alex_Odintsov_Resume.doc">Alex Odintsov's Resume (MS Word format)</a>
+                </li>
+            </ul>
         </div>
     </div>
 </body>
