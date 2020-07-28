@@ -5,22 +5,22 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://odintsov.com/</loc>
+        <loc>https://www.odintsov.com/</loc>
         <changefreq>daily</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
-        <loc>https://odintsov.com/resume/Alex_Odintsov_Resume.pdf</loc>
+        <loc>https://www.odintsov.com/resume/Alex_Odintsov_Resume.pdf</loc>
         <changefreq>daily</changefreq>
         <priority>0.90</priority>
     </url>
     <url>
-        <loc>https://odintsov.com/resume/Alex_Odintsov_Resume.doc</loc>
+        <loc>https://www.odintsov.com/resume/Alex_Odintsov_Resume.doc</loc>
         <changefreq>daily</changefreq>
         <priority>0.80</priority>
     </url>
     <url>
-        <loc>https://odintsov.com/resume/Alex_Odintsov_Resume.txt</loc>
+        <loc>https://www.odintsov.com/resume/Alex_Odintsov_Resume.txt</loc>
         <changefreq>daily</changefreq>
         <priority>0.50</priority>
     </url>
