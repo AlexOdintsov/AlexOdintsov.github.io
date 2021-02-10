@@ -1,96 +1,92 @@
-ALEX ODINTSOV
-ENTERPRISE SOLUTIONS DELIVERY • INTEGRATIONS & OPERATIONS • STRATEGIC AGILITY • BUSINESS RESILIENCE
-US CITIZEN | ATLANTA, GA 30068 | +1-706-512-0542 | ALEX@ODINTSOV.COM | linkedin.com/in/alexodintsov
-
+﻿ALEX ODINTSOV
+ENTERPRISE SOLUTIONS DELIVERY, INTEGRATIONS & OPERATIONS | STRATEGIC AGILITY | BUSINESS RESILIENCE
+US CITIZEN | ATLANTA, GA 30068 | +1-706-512-0542 | alex@odintsov.com | linkedin.com/in/alexodintsov
 EXECUTIVE SUMMARY
-
 Information Technology professional with over 14 years of leadership experience enabling organizations to deliver exceptional consumer-facing digital experience products, utilizing innovative technologies in the financial services industry.
-Core capabilities include:
- • Applying a best-practices approach to drive the development of technology and application solutions, building secure, highly scalable, and performant multi-tenant SaaS and mobile commerce solutions, API platforms, and B2B integrations
- • Guiding product development strategy, driving modernization initiatives, and making executive-level prioritization
- • Designing technology strategies based on business goals and then translating such strategies into actionable plans
- • Ensuring the development of robust business continuity plans and maintenance for systems and infrastructure
- • Recruiting, mentoring, and managing diverse high-performing teams of technical personnel from around the globe
- • Championing best practices, automation, and innovative thinking to maximize team productivity
- • Instilling rigorous software quality/security/compliance standards and driving the development of support documentation
- • Ability to work and influence across functional teams with different mindsets, cultures, and decision-making frameworks
- • Developing technology budgets, optimizing costs, and monitoring expenditures
+Core leadership capabilities include:
+• Applying a best-practices approach to drive the development of technology and application solutions, building secure, highly scalable, and performant multi-tenant SaaS and mobile commerce solutions, API platforms, and B2B integrations
+• Guiding product development strategy, driving modernization initiatives, and making executive-level prioritization
+• Designing technology strategies based on business goals and then translating such strategies into actionable plans
+• Ensuring the development of robust business continuity plans and maintenance for systems and infrastructure
+• Recruiting, mentoring, and managing diverse high-performing teams of technical personnel from around the globe
+• Championing best practices, automation, and innovative thinking to maximize team productivity
+• Instilling rigorous software quality/security/compliance standards and driving the development of support documentation
+• Ability to work and influence across functional teams with different mindsets, cultures, and decision-making frameworks
+• Developing technology budgets, optimizing costs, and monitoring expenditures
+Firsthand experience in interface and integration services architecture and software engineering development:
+• Building and supporting data management solutions (database schemas, data protection), workflow optimization (automation, redundancies elimination, batch processing), microservices/API-based architectures, and distributed multitiered systems architectures to optimize and streamline device-agnostic content delivery
+• Implementing Business Intelligence / Data Analytics (data mining, transformation, validation, processing)
+• Competency in the configuration, deployment, and operation workloads (services/network/storage/traffic) in cloud
+• Technically strong enough to roll up my sleeves and work directly on projects when needed
 
 WORK EXPERIENCE
-
 ADTALEM GLOBAL EDUCATION, ATLANTA, GA
-DIRECTOR OF TECHNOLOGY, 01/2020-PRESENT
- • Led the ACAMS technology group with responsibility for design, delivery, operational readiness, and production support operations (Engineering, QA, Database, DevOps, Security, Business Analysts, and Technical Support teams)
- • Managed remote, and offshore teams including 19 FTE employees and ten contractors
- • Secured multi-million-dollar contract by fulfilling all contractual obligations and meeting the tight deadlines
- • Spearheaded the redesign and world-wide launch of the ACAMS's Anti-Money Laundering compliance solution
- • Established essential policies and quality best practices Agile/Kanban/SRE/DevOps principles and continuous integration
- • Guided major processes and digital customer experience improvements concentrating on non-functional aspects of product development and quality testing such as performance, reliability, availability, scalability, security, and compliance
- • Championed migration of the legacy monolithic web system to an ecosystem of microservices
- • Established 24x7, 3-tiered, international production support functions, including ITIL practices (Change/Release/Incident Management) and directed management and execution of the business's IT operations (NOC/SLI/SLO/SLA, monitoring)
- • Redesigned consumer-facing products to deliver consistent cross-platform global Brand and unified Shopping experience
- • Improved operational efficiency by adding Omni-channel capabilities (engagement tools) and adapting A/B or Split testing
- • Established a "culture of accountability" by setting clear expectations, responsibilities and aligning teams on shared goals
- • Improved business decision-making based on data/analytics and cultivate a culture of continuous improvement
- • Organized and directed client engagements, championing the "Customer First" strategy
- • Technology: Java/J2EE, RESTful APIs, React.js, Node.js, Play, Scala, Junit, Spring, MySQL, Selenium, JMeter, AWS
- • Notable Clients: Mastercard
- • Supported Standard and Regulatory Compliance requirements: SOC 2, PCI SSC, GDPR
+DIRECTOR OF TECHNOLOGY	01/2020-PRESENT
+• Led the ACAMS technology group with responsibility for design, delivery, operational readiness, and production support operations (Engineering, QA, Database, DevOps, Security, Business Analysts, and Technical Support teams)
+• Managed remote, and offshore teams, including 19 FTE employees and ten contractors
+• Secured multi-million-dollar contract by fulfilling all contractual obligations and meeting the tight deadlines
+• Spearheaded the redesign and world-wide launch of the ACAMS's Anti-Money Laundering compliance solution
+• Established essential policies and quality best practices Agile/Kanban/SRE/DevOps principles and continuous integration
+• Guided major processes and digital customer experience improvements concentrating on non-functional aspects of product development and quality testing such as performance, reliability, availability, scalability, security, and compliance
+• Championed migration of the legacy monolithic web system to an ecosystem of microservices
+• Established 24x7, 3-tiered, international production support functions, including ITIL practices (Change/Release/Incident Management) and directed management and execution of the business's IT operations (NOC/SLI/SLO/SLA, monitoring)
+• Redesigned consumer-facing products to deliver consistent cross-platform global Brand and unified Shopping experience
+• Improved operational efficiency by adding Omni-channel capabilities (engagement tools) and adapting A/B or Split testing
+• Established a "culture of accountability" by setting clear expectations, responsibilities and aligning teams on shared goals
+• Improved business decision-making based on data/analytics and cultivate a culture of continuous improvement
+• Organized and directed client engagements, championing the "Customer First" strategy
+• Technology: Java/J2EE, RESTful APIs, React.js, Node.js, Play, Scala, Junit, Spring, MySQL, Selenium, JMeter, AWS
+• Notable Clients: Mastercard
+• Supported Standard and Regulatory Compliance requirements: SOC 2, PCI SSC, GDPR
 
 WOLTERS KLUWER TAX AND ACCOUNTING US, KENNESAW, GA
-DIRECTOR OF SOFTWARE DEVELOPMENT AND OPERATIONS, 02/2008-01/2019
- • Led the development organization responsible for driving vision, strategy, and execution of strategic and operational business initiatives (Engineering, Database, QA, Data Analytics, Security, DevOps, and Production Support teams)
- • Effectively managed onshore, nearshore, and offshore teams of 47+ employees and 15 seasonal contractors in 5 countries
- • Responsible for high-quality technology deliverables to over 60,000 professional businesses and government agencies (desktop, web, mobile, eCommerce consumer-facing apps, B2B integrations), generating over $175 million in revenue
- • Defined IT roadmaps enabling product development in support of cloud readiness, onboarding, and cloud transformation
- • Launched first cloud-native web tax compliance software in the professional accounting industry (microservices/API)
- • Directed product and process improvements for leading high-traffic transaction processing system (https://bit.ly/33xRnFx)
- • Led modernization initiatives to transform legacy monolithic systems into decomposed services and shared components
- • Championed creation of a global API platform which pushed dramatic gains in productivity, speed, agility, and reliability
- • In collaboration with the leadership team, defined product strategy for enabling a global API framework monetization (API-as-a-Product) and led the business initiative to drive partners program success through better channel enablement tools
- • Influenced adaption of an effective product development culture based on the CALMS model (Collaboration, Automation, Lean, Measurement, and Sharing), created the Operations department (DevOps/SRE), led executions of "Proof of concept" (POCs) and plans for adoption on Service Mesh, API Management, Web, and Mobile technologies
- • Developed strategic partnerships with major vendors and financial service providers, supporting B2B/B2C integrations (transactional, ERP, authentication, payment, and analytics integrations with major US banks and government systems)
- • Transformed the organization from a waterfall project methodology to Agile Software (Scrum/SAFe/Kanban)
- • Aligned standard procedures and policies in Application Development, Quality Assurance, Data Center Operations, and IT to meet audit, security, compliance, and service level expectations (Attained CMMI Capability Level 1 and 2)
- • Transformed Quality Testing by investing in automation, scalability, and strategy, including behavioral targeting
- • Improved customer experience by launching self-service portals and implementing an AI bot-based support strategy
- • Launched a cross-divisional business analytics platform, incorporate data-driven insights across diverse sources into day-to-day operations and planning (customer experience strategy, support efficiency, products, and services personalization)
- • Consolidated four regional data centers in two geographically redundant IBM data centers and the cloud
- • Migrated over 200 hosted legacy systems across 900+ servers with virtually no impact on business operations to the cloud
- • Architected and managed the implementation of a disaster recovery strategy as a part of the corporate business continuity
- • Executed post-acquisition integration of three major software companies, running complex business operations at scale
- • As a member of government "Strategic Threat Assessment & Response" (STAR) Working Group, championed integration of nationally recognized standards and best practices of anti-fraud initiatives into business risk management programs
- • Technology: .NET, C#/ASP.net, Java/J2EE, RESTful APIs, React.js, Redis, MSSQL, Oracle, MySQL, SSRS/SSIS, Azure
- • Notable Partners/Clients: IRS, HSBC, TPG (Santa Barbara), River City, Republic, PwC, H&R Block, Western Union
- • Supported Standard and Regulatory Compliance requirements: SOC 1 & 2, PCI DSS & SSC, GDPR, NIST, DISA STIGs
+DIRECTOR OF SOFTWARE DEVELOPMENT AND OPERATIONS	02/2008-01/2019
+• Led the development organization responsible for driving vision, strategy, and execution of strategic and operational business initiatives (Engineering, Database, QA, Data Analytics, Security, DevOps, and Production Support teams)
+• Effectively managed onshore, nearshore, and offshore teams of 47+ employees and 15 seasonal contractors in 5 countries
+• Responsible for high-quality technology deliverables to over 60,000 professional businesses and government agencies (desktop, web, mobile, eCommerce consumer-facing apps, B2B integrations), generating over $175 million in revenue
+• Defined IT roadmaps enabling product development in support of cloud readiness, onboarding, and cloud transformation
+• Launched first cloud-native web tax compliance software in the professional accounting industry (microservices/API)
+• Directed product and process improvements for leading high-traffic transaction processing system (https://bit.ly/33xRnFx)
+• Led modernization initiatives to transform legacy monolithic systems into decomposed services and shared components
+• Championed creation of a global API platform, which pushed dramatic gains in productivity, speed, agility, and reliability
+• In collaboration with the leadership team, defined product strategy for enabling a global API framework monetization (API-as-a-Product) and led the business initiative to drive partners program success through better channel enablement tools
+• Influenced adaption of an effective product development culture based on the CALMS model (Collaboration, Automation, Lean, Measurement, and Sharing), created the Operations department (DevOps/SRE/DevSecOps), led executions of "Proof of concept" (POCs) and plans for adoption on Service Mesh, API Management, Web, and Mobile technologies
+• Developed strategic partnerships with major vendors and financial service providers, supporting B2B/B2C integrations (transactional, ERP, authentication, payment, and analytics integrations with major US banks and government systems)
+• Transformed the organization from a waterfall project methodology to Agile Software (Scrum/SAFe/Kanban)
+• Aligned standard procedures and policies in Application Development, Quality Assurance, Data Center Operations, and IT to meet audit, security, compliance, and service level expectations (Attained CMMI Capability Level 1 and 2)
+• Transformed Quality Testing by investing in automation, scalability, and strategy, including behavioral targeting
+• Improved customer experience by launching self-service portals and implementing an AI bot-based support strategy
+• Launched a cross-divisional business analytics platform, incorporate data-driven insights across diverse sources into day-to-day operations and planning (customer experience strategy, support efficiency, products, and services personalization)
+• Consolidated four regional data centers in two geographically redundant IBM data centers and the cloud
+• Migrated over 200 hosted legacy systems across 900+ servers with virtually no impact on business operations to the cloud
+• Architected and managed the implementation of a disaster recovery strategy as a part of the corporate business continuity
+• Executed post-acquisition integration of three major software companies, running complex business operations at scale
+• As a member of government "Strategic Threat Assessment & Response" (STAR) Working Group, championed integration of nationally recognized standards and best practices of anti-fraud initiatives into business risk management programs
+• Technology: .NET, C#/ASP.net, Java/J2EE, RESTful APIs, React.js, Redis, MSSQL, Oracle, MySQL, SSRS/SSIS, Azure
+• Notable Partners/Clients: IRS, HSBC, TPG (Santa Barbara), River City, Republic, PwC, H&R Block, Western Union
+• Supported Standard and Regulatory Compliance requirements: SOC 1 & 2, PCI DSS & SSC, GDPR, NIST, DISA STIGs
 
 RELEVANT EXPERIENCE
-
-UNIVERSAL TAX SYSTEMS INC., ROME, GA
- • Manager, Application Development
- • Software Development Team Lead
- • Senior Software Architect
- • Software Developer
-
+UNIVERSAL TAX SYSTEMS INC., ROME, GA	04/1999-02/2008
+• Manager, Application Development
+• Software Development Team Lead
+• Senior Software Architect
+• Software Developer
 TECHNICAL PORTFOLIO
-
- • Product & Technology Leadership (Strategic Planning, Product Development, Process Improvements)
- • Software Engineering (SDLC, Agile/Scrum/Kanban/SAFe, Cloud Native, .NET/JAVA/Node.js, RESTful/Web API, MSSQL/MySQL/Oracle, TFS/VSTS/GIT, Mobile apps: Android/iOS, API Management: Apigee, MuleSoft, Azure)
- • Data Center Operations (DevOps, CI/CD pipeline, ITIL, Management Controls: Change/Release/Service/Incident, Log & Event Management, PagerDuty, DataDog, Automation/Orchestration, Site Reliability Engineering, Cost Optimization)
- • Quality & Performance (Unit Tests, Operational Readiness, Non-Functional: Scalability and Performance Testing)
- • Cloud Computing (Cloud Readiness, Cloud Migration, IAAS, PAAS, SAAS, DAAS, FAAS, API-as-a-Service)
- • Cloud Infrastructure (Private/Public/Hybrid, Azure/AWS, Geo-Distributed Traffic Management, Infrastructure as a Code)
- • Business Continuity (Availability, Resiliency, Disaster Recovery, Data Retention, Incident, and Crisis Management)
- • Systems Integration (M&A Integrations, B2B, B2C, API Management, Salesforce, Big Machines, Softrax, EBS)
- • Business & IT Analysis and Predictions (PowerBI, SSIS/SSRS/SSAS, Event & Stream Analytics, BigData)
- • People Leadership & Development (Talent Development/Mentoring/Training, CapEx/OpEx Budgeting, Outsourcing)
- • Governance, Risk & Compliance (Assessment & Mitigation, Legal/Security/Regulatory, SSAE, SOC, PCI, NIST, GDPR)
- • Communications (Leadership Briefings/Reporting/Presentations, Client Engagements, Analytics & Forecast)
- • Vendor Management (Contracts & Policies Management, Legal Compliance, SOW, RFP, License & Asset Management)
+• Product & Technology Leadership (Strategic Planning, Product Development, Process Improvements)
+• Software Engineering (SDLC, Agile/Scrum/Kanban/SAFe, Cloud Native, .NET/JAVA/PHP/Node.js, RESTful/Web API, MSSQL/MySQL/Oracle, TFS/VSTS/GIT, Mobile: Android/iOS, API Management: Apigee/MuleSoft/Azure)
+• Data Center Operations (DevOps, DevSecOps, CI/CD pipeline, ITIL, Management Controls: Change/Release/Service/Incident, Log & Event Management, PagerDuty, DataDog, Automation/Orchestration, Site Reliability Engineering, Cost Optimization)
+• Quality & Performance (Unit Tests, Operational Readiness, Non-Functional: Scalability and Performance Testing)
+• Cloud Computing (Cloud Readiness, Cloud Migration, IAAS, PAAS, SAAS, DAAS, FAAS, API-as-a-Service)
+• Cloud Infrastructure (Private/Public/Hybrid, Azure/AWS, Geo-Distributed Traffic Management, Infrastructure as a Code)
+• Business Continuity (Availability, Resiliency, Disaster Recovery, Data Retention, Incident, and Crisis Management)
+• Systems Integration (M&A Integrations, B2B, B2C, API Management, Salesforce, Big Machines, Softrax, EBS)
+• Business & IT Analysis and Predictions (PowerBI, SSIS/SSRS/SSAS, Event & Stream Analytics, BigData)
+• People Leadership & Development (Talent Development/Mentoring/Training, CapEx/OpEx Budgeting, Outsourcing)
+• Governance, Risk & Compliance (Assessment & Mitigation, Legal/Security/Regulatory, SSAE, SOC, PCI, NIST, GDPR)
+• Communications (Leadership Briefings/Reporting/Presentations, Client Engagements, Analytics & Forecast)
+• Vendor Management (Contracts & Policies Management, Legal Compliance, SOW, RFP, License & Asset Management)
 
 EDUCATION
-
- • Bachelor of Science in Computer Science (major)  • Artificial Intelligence (minor)
- • Moscow State University of Instrument Engineering and Computer Science
-
-US Citizen / Authorized to work in the US for any employer
+• Bachelor of Science in Computer Science (major) • Artificial Intelligence (minor)
+• Moscow State University of Instrument Engineering and Computer Science
